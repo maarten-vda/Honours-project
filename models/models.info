@@ -1,0 +1,4 @@
+The ffnn_3 model is the neural network that is used to combine the three averaged scores of the constituent networks, so it is used in Models A and C
+The ffnn_15 model is the neural network that is used to combine each constituent prediction, so it is used in Models B and D
+The autoencoder_3 and autoencoder_15 models are the autoencoders with 3 or 15 perceptrons in each layer respectively, so are used in C and D respectively
+
